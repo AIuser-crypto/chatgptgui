@@ -1,4 +1,4 @@
-Before opening the project type :             
+Before opening the project type this in the terminal :             
 
 pip install undetected-chromedriver flask selenium
 
